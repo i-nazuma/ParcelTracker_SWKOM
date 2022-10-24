@@ -9,7 +9,7 @@ import java.time.OffsetDateTime;
 @Getter
 @Setter
 @AllArgsConstructor
-public class HopArrival {
+public class HopEntity {
     private String code;
     private String description;
     private OffsetDateTime dateTime;
